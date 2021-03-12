@@ -1,0 +1,14 @@
+npm install -g gatsby-cli
+gatsby new myportfolio https://github.com/gatsbyjs/gatsby-starter-hello-world
+
+gatsby develop
+
+
+npm install gatsby-source-filesystem
+npm install gatsby-transformer-remark
+npm install --save gatsby-image
+npm install gatsby-plugin-sharp gatsby-transformer-sharp
+
+
+
+gatsby build
