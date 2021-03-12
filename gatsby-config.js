@@ -28,7 +28,7 @@ module.exports = {
   siteMetadata: {
     title: 'Sazid Ahmed',
     description: 'Software Engineer',
-    tagline: 'UX designer & Full-Stack Application Developer',
+    tagline: 'UX Designer & Full-Stack Application Developer',
     copyright: 'copyright@SazidAhmed',
     contact: 'sazidahmed.official@gmail.com',
   }
